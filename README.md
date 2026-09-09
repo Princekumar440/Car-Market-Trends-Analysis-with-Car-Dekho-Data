@@ -1,4 +1,4 @@
-#Car Market Trends Analysis
+# Car Market Trends Analysis
 
 This project analyzes the **CarDekho used-vehicle dataset** using **Python and Jupyter Notebook** to understand pricing patterns, vehicle depreciation, customer preferences, and factors influencing the resale value of vehicles.
 
